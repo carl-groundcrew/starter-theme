@@ -1,0 +1,35 @@
+/*--------------------------------------------------------------
+## SITE WIDE STYLING
+--------------------------------------------------------------*/
+html {
+	position: relative;
+    min-height: 100%;
+}
+body {
+	margin-bottom: $footer;
+	-webkit-font-smoothing: antialiased;	
+	&.no-scroll {
+		height: 100vh;
+		overflow: hidden;
+	}
+}
+.container-lg {
+	display: block;
+	width: 100%;
+	max-width: 1600px;
+	padding: 0px 15px;
+	margin: 0px auto;
+	&.no-padding {
+		padding: 0px;
+	}
+}
+.container-rg {
+	display: block;
+	width: 100%;
+	max-width: 1200px;
+	padding: 0px 15px;
+	margin: 0px auto;
+	&.extra-padding {
+		padding: 0px 40px;
+	}
+}

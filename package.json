@@ -1,0 +1,27 @@
+{
+  "name": "Ellies",
+  "version": "1.0.0",
+  "description": "Ellies Theme",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "i": "^0.3.6"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.1.0",
+    "browser-sync": "^2.9.11",
+    "gem": "^2.4.2",
+    "gulp-include": "^2.3.1",
+    "gulp-ruby-sass": "^2.0.4",
+    "sass": "^0.5.0",
+    "wiredep": "^2.2.2",
+    "gulp-uglify": "^1.0.0",
+    "gulp-uglifycss": "^1.0.0",
+    "gulp-clean": "^0.3.0"
+  },
+  "scripts": {
+    "test": "Test"
+  },
+  "author": "Carl Beaverson",
+  "license": "ISC"
+}
