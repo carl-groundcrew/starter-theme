@@ -1,7 +1,7 @@
 {
-  "name": "Ellies",
+  "name": "",
   "version": "1.0.0",
-  "description": "Ellies Theme",
+  "description": "",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^4.0.0",
@@ -22,6 +22,6 @@
   "scripts": {
     "test": "Test"
   },
-  "author": "Carl Beaverson",
+  "author": "Groundcrew",
   "license": "ISC"
 }
